@@ -38,4 +38,8 @@ Nome do App: ASSMECA
 
 ![Capturar](https://github.com/tatipink/ASSMECA/assets/163483638/3e2b62ef-744d-47d1-8290-dcb2916b4733)
 
+# Power Automate
+
+![Captura de Tela (10)](https://github.com/Eloisamlwr/INF./assets/163483077/03d343fd-93b3-4093-ab36-d6514f829dd3)
+
 
